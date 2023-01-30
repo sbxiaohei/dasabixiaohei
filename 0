@@ -1,0 +1,31 @@
+    <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 70px;
+       ">
+      <img src="https://cn.bing.com/logo.png" alt="小黑" width="90px" height="90px"
+    </div>
+    <div style="
+      max-width: 900px;
+       margin: 80px auto;
+       padding: 40px;
+       line-height: 1.8;
+       color: green;
+       >" 
+      <p>傻逼小黑</p>
+      <p>傻逼小黑</p>
+      <p>傻逼小黑</p>
+      <p>傻逼小黑</p>
+      <p>傻逼小黑</p>
+      <p>傻逼小黑</p>
+    </div>
+     <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 70px;
+      font-size: 12px;
+       ">
+       <p>傻逼小黑</p>
+       </div>
+  </body>
+</html>
